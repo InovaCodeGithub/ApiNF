@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe xmlns="http://www.portalfiscal.inf.br/nfe"><infNFe Id="NFe31190871144000000103550010000017841200001059" versao="4.00"><ide><cUF>31</cUF><cNF>20000105</cNF><natOp>VENDA COM SUBSTITUICAO TRIBITARIA</natOp><mod>55</mod><serie>1</serie><nNF>1784</nNF><dhEmi>2019-08-29T11:06:00-03:00</dhEmi><dhSaiEnt>2019-08-29T11:06:00-03:00</dhSaiEnt><tpNF>1</tpNF><idDest>1</idDest><cMunFG>3106200</cMunFG><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>9</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>0</indFinal><indPres>0</indPres><procEmi>3</procEmi><verProc>4.01_sebrae_b026</verProc></ide><emit><CNPJ>71144000000103</CNPJ><xNome>ELETRO CARBONO MINAS COMERCIO E REPRESENTAÇÕES LTDA</xNome><xFant>ELETRO CARBONO MINAS</xFant><enderEmit><xLgr>RUA GAVEA</xLgr><nro>358</nro><xCpl>SALA 304</xCpl><xBairro>JARDIM AMERCIA</xBairro><cMun>3106200</cMun><xMun>Belo Horizonte</xMun><UF>MG</UF><CEP>30421340</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>03133329629</fone></enderEmit><IE>0628784150040</IE><IM>1083840018</IM><CNAE>4742300</CNAE><CRT>3</CRT></emit><dest><CNPJ>00924429000175</CNPJ><xNome>FERROVIA CENTRO ATLANTICA</xNome><enderDest><xLgr>RUA SAPUCAI</xLgr><nro>383</nro><xBairro>FLORESTA</xBairro><cMun>3106200</cMun><xMun>Belo Horizonte</xMun><UF>MG</UF><CEP>30150904</CEP><cPais>1058</cPais><xPais>BRASIL</xPais><fone>3199884254</fone></enderDest><indIEDest>1</indIEDest><IE>0629780140041</IE><email>PEDRO.OSELIERI@VLI-LOGISTICA.COM.BR</email></dest><det nItem="1"><prod><cProd>850</cProd><cEAN/><xProd>ECM 1205050 PEDRA DE ASSENTAMENTO BRANCA 120X50X50 COD CLIENTE 95003771 / 30036433</xProd><NCM>68042290</NCM><CEST>0800300</CEST><CFOP>5403</CFOP><uCom>PECA</uCom><qCom>20.0000</qCom><vUnCom>115.2000000000</vUnCom><vProd>2304.00</vProd><cEANTrib/><uTrib>PECA</uTrib><qTrib>20.0000</qTrib><vUnTrib>115.2000000000</vUnTrib><indTot>1</indTot><xPed>4500794937</xPed></prod><imposto><ICMS><ICMS60><orig>0</orig><CST>60</CST><vBCSTRet>1332.02</vBCSTRet><pST>18.0000</pST><vICMSSubstituto>159.84</vICMSSubstituto><vICMSSTRet>137.00</vICMSSTRet></ICMS60></ICMS><IPI><cEnq>999</cEnq><IPINT><CST>53</CST></IPINT></IPI><PIS><PISNT><CST>07</CST></PISNT></PIS><COFINS><COFINSNT><CST>07</CST></COFINSNT></COFINS></imposto></det><total><ICMSTot><vBC>0.00</vBC><vICMS>0.00</vICMS><vICMSDeson>0.00</vICMSDeson><vFCPUFDest>0.00</vFCPUFDest><vICMSUFDest>0.00</vICMSUFDest><vICMSUFRemet>0.00</vICMSUFRemet><vFCP>0.00</vFCP><vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>2304.00</vProd><vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI><vIPIDevol>0.00</vIPIDevol><vPIS>0.00</vPIS><vCOFINS>0.00</vCOFINS><vOutro>0.00</vOutro><vNF>2304.00</vNF><vTotTrib>0.00</vTotTrib></ICMSTot></total><transp><modFrete>1</modFrete><transporta><CNPJ>61139432007002</CNPJ><xNome>DELLA VOLPE</xNome><xEnder>AV GENERAL DAVID SARNOFF 2391</xEnder><xMun>Contagem</xMun><UF>MG</UF></transporta></transp><pag><detPag><indPag>1</indPag><tPag>15</tPag><vPag>2304.00</vPag></detPag></pag><infAdic><infAdFisco>PEDIDO = 4500794937 CONDICOES DE PAGAMENTO= 30 DDL  ICMS RETIDO POR SUBSTITUICAO TRIBUTARIA CONFORME DECRETO 44.147 DE 14/11/05 . BASE DE CALCULO DE ST. = 1.332,02 - ICMS DE S.T. = 137,00 - LOCAL DE ENTREGA =  FERROVIA CENTRO ATLANTICA  - BR 265 - S/N  - ZONA RURAL - LAVRAS- MG</infAdFisco></infAdic><infRespTec><CNPJ>43728245000142</CNPJ><xContato>suporte</xContato><email>suporteemissores@sebraesp.com.br</email><fone>08005700800</fone></infRespTec></infNFe><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#NFe31190871144000000103550010000017841200001059"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>7PEXF7iB39NisJM0zFD9avNGQnE=</DigestValue></Reference></SignedInfo><SignatureValue>al+mTfj6CR9I3QdAHDpeNN0J0P+ZxRyhsseurPyWy1wt0P16pzKYJ+M2kaPVYiDHprqobmZ5Zg1j
+Y4vpb9cO/YbMmXXPOCV2LgBKwNHGsnKE/7AX4RGPvprvBEB1mU68Fsne7r5MYpKzZjrQlcEnI+Fe
+mdqtanQCxcCa+bAYv+BGqidjs1uU0buy6AS/zCO0k0Nfo7OBfM2u4qcBtd0UDVPzNTlLVN0Npsgg
+Pno+8+WEkZ48Q0KiKb0xx7O9r9QYoGhBV4MCWqw87ZLyhWr29yFCOgtAzGcbO9v5KZAMAPH3Tbb0
+bWQIWKLxea0Z1+oV2JBQlmOjhgoMT1WVPetUIg==</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIHyTCCBbGgAwIBAgIIfXwHpuOHCK8wDQYJKoZIhvcNAQELBQAwczELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEXMBUGA1UEAxMOQUMgTElOSyBSRkIgdjIwHhcNMTkwNzMwMTgwMDAw
+WhcNMjIwNzMwMTgwMDAwWjCB/DELMAkGA1UEBhMCQlIxCzAJBgNVBAgTAk1HMRcwFQYDVQQHEw5C
+RUxPIEhPUklaT05URTETMBEGA1UEChMKSUNQLUJyYXNpbDE2MDQGA1UECxMtU2VjcmV0YXJpYSBk
+YSBSZWNlaXRhIEZlZGVyYWwgZG8gQnJhc2lsIC0gUkZCMRYwFAYDVQQLEw1SRkIgZS1DTlBKIEEz
+MRcwFQYDVQQLEw4xMTUwODIyMjAwMDEzNjFJMEcGA1UEAxNARUxFVFJPIENBUkJPTk8gTUlOQVMg
+Q09NRVJDSU8gRSBSRVBSRVNFTlRBQ09FUyBMVDo3MTE0NDAwMDAwMDEwMzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAOczp65WxZil9MK3tlyCr2V2kHEV/YT6cHuERzbzwoRSuf3YWWad
+DDwsXdxiQ3+TQbQcz1/vEdVpEqXP+hAFbjd4cqZAZ/oG2s54c8oDnnFOjRYLzqx2ZyBuvXwtCvfV
+PydtHV4foyfOO+djFF+jeUzFUEQVUvIgeAZmE4rtFtSyFT72VWGf5r7F7C5//XaJbvrIdCjHs/CE
+LJGjEt1NQWSf9L1oN37aYU8SU24g6fvNiiEQR/6gsV6mq/yqq33YsfVbzfi189cJSv5xdGVjDOra
+Y6J8ZahVpswbimdCfl6+rf1Wrcjj9jAnX1P3nSaGXWFfHSrQJNlIj4AlPQW6n1cCAwEAAaOCAtUw
+ggLRMB8GA1UdIwQYMBaAFA3f1kf0E07lIlgyLGam5y7kV7wCMA4GA1UdDwEB/wQEAwIF4DBuBgNV
+HSAEZzBlMGMGBmBMAQIDODBZMFcGCCsGAQUFBwIBFktodHRwOi8vcmVwb3NpdG9yaW8ubGlua2Nl
+cnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9hYy1saW5rLXJmYi1wYy1hMy5wZGYwgbAGA1Ud
+HwSBqDCBpTBQoE6gTIZKaHR0cDovL3JlcG9zaXRvcmlvLmxpbmtjZXJ0aWZpY2FjYW8uY29tLmJy
+L2FjLWxpbmtyZmIvbGNyLWFjLWxpbmtyZmJ2NS5jcmwwUaBPoE2GS2h0dHA6Ly9yZXBvc2l0b3Jp
+bzIubGlua2NlcnRpZmljYWNhby5jb20uYnIvYWMtbGlua3JmYi9sY3ItYWMtbGlua3JmYnY1LmNy
+bDCBlQYIKwYBBQUHAQEEgYgwgYUwUgYIKwYBBQUHMAKGRmh0dHA6Ly9yZXBvc2l0b3Jpby5saW5r
+Y2VydGlmaWNhY2FvLmNvbS5ici9hYy1saW5rcmZiL2FjLWxpbmtyZmJ2NS5wN2IwLwYIKwYBBQUH
+MAGGI2h0dHA6Ly9vY3NwLmxpbmtjZXJ0aWZpY2FjYW8uY29tLmJyMIG4BgNVHREEgbAwga2BHlpJ
+WklARUxFVFJPQ0FSQk9OT01JTkFTLkNPTS5CUqAdBgVgTAEDAqAUExJaSVpJIERVVFRBUyBTQU5U
+T1OgGQYFYEwBAwOgEBMONzExNDQwMDAwMDAxMDOgOAYFYEwBAwSgLxMtMTYxMjE5NjEwNDUzMzAy
+NDgzMTAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwoBcGBWBMAQMHoA4TDDAwMDAwMDAwMDAwMDAd
+BgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOC
+AgEAXa5tKn/ycvYkDNM7FiMY2PiRFmEQMla5/TTOoOd6i2sWc1Rz4+4xiEu48f5w/RWgT//gscGY
+I2QSmJjpyD3vd854EMjYuKsQA6cqeNKK07IuV4pE5o4/1L4AGrUVfP2EFszlkXzTY3ac4Y5cZM50
+nMS7k+5PI/BxtUXvGxH6uOTIqftSMuHQ/wP88MRqK0h9KS9j3EBwhi4qdrnGTuEEliCVIxvo05/L
+SzCGeiIFuV2DU1NfSQG8onvPjuVaX+o5ALe+QVaEX8aBekOPVxRPBFYlaDdgcQduSTSFqkI89Uim
+xvRBt/DNrfTyIEvRcelAPoyqDxFAalV5o/YjOTPoyjpPwP3SG88qFQBnPS6YMzMNwhFq8yBeWzKd
+kbYoCrKQ9KVuAYpqA7JH709TkO4gOkGG69aDyc7wpjD0lI+MarN298d75Xfphhj/HyjVlPSJcOgv
+e8jtIL1TLAK5U+RhBzrZkwThFVIkVLOiKVAoEwwYIJBrFW9nNJGA1PMDbV+DLSOoe0kNKy5JUiSG
+UmIU4ZayzOpZBuR/+EyMRH3dMAw+tvD7XbsbAYqxOBR6VgGzbjB8fmlcyINlHNmI29WkTaJ8krCK
+xxn3c0SV5bs+BpKrkpEwcnfVIZapjQQfvudVEx7zTXRaNWeviLsdSG7HEyx6UNZHQhZJUb1r9rbJ
+fr0=</X509Certificate></X509Data></KeyInfo></Signature></NFe><protNFe versao="4.00">
+    <infProt>
+      <tpAmb>1</tpAmb>
+      <verAplic>14.3.13</verAplic>
+      <chNFe>31190871144000000103550010000017841200001059</chNFe>
+      <dhRecbto>2019-08-29T11:04:19-03:00</dhRecbto>
+      <nProt>131193401651295</nProt>
+      <digVal>7PEXF7iB39NisJM0zFD9avNGQnE=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe></nfeProc>
